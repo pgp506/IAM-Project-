@@ -1,1 +1,3 @@
-
+To use Python and Max code, please flash python code to your microbit first then open MAX. Check your MAX 7 midi settings are connected to the MICROBIT. 
+After that you should be able to run the code. 
+The code has currently not been completely tested and may not work. 
